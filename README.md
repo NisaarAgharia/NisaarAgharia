@@ -6,11 +6,11 @@
 A full-stack engineer with 5.5 years of experience building scalable web, mobile and backend systems, who fuels curiosity by learning every day and loves exploring cutting-edge Industry 4.0 technologies. 
 </h5>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=NisaarAgharia&label=Profile%20views&color=brightgreen&style=flat" alt="NisaarAgharia" /> </p>
-<p>
+<p align="right">
 <img alt= "stats card" height="200px" width="400" src="https://github-readme-streak-stats.herokuapp.com?user=NisaarAgharia&theme=github-dark&date_format=M%20j%5B%2C%20Y%5D"></p>
 <img height="200px" width="400" src="https://github-readme-stats.vercel.app/api?username=NisaarAgharia&count_private=true&theme=radical&show_icons=true" />
 <p align="center">
-<img height="270" width="480" src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" /> </a>
+<img height="270" width="480" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" /> </a>
 </p>
 
 
