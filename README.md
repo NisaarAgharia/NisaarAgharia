@@ -7,12 +7,11 @@ A full-stack engineer with 5.5 years of experience building scalable web, mobile
 </h5>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=NisaarAgharia&label=Profile%20views&color=brightgreen&style=flat" alt="NisaarAgharia" /> </p>
 <p>
-<a align= "center" href="https://github.com/ishikkkkaaaa">
 <img alt= "stats card" height="200px" width="400" src="https://github-readme-streak-stats.herokuapp.com?user=NisaarAgharia&theme=github-dark&date_format=M%20j%5B%2C%20Y%5D">
 <img height="200px" width="400" src="https://github-readme-stats.vercel.app/api?username=NisaarAgharia&count_private=true&theme=radical&show_icons=true" />
 <img align="right" height="360" width="480" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" /> </a>
 </p>
-
+<br><br>
 - 📫 How to reach me **nagharia786@gmail.com**
 <br><br>
 <hr>
