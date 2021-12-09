@@ -5,10 +5,10 @@
 <h5 align="center">
 A full-stack engineer with 5.5 years of experience building scalable web, mobile and backend systems, who fuels curiosity by learning every day and loves exploring cutting-edge Industry 4.0 technologies. 
 </h5>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ishikkkkaaaa&label=Profile%20views&color=0e75b6&style=flat" alt="ishikkkkaaaa" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=NisaarAgharia&label=Profile%20views&color=brightgreen&style=flat" alt="NisaarAgharia" /> </p>
 <p>
 <a align= "center" href="https://github.com/ishikkkkaaaa">
-<img alt= "stats card" height="200px" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=ishikkkkaaaa&theme=radical">
+<img alt= "stats card" height="200px" width="400" src="https://github-readme-streak-stats.herokuapp.com?user=NisaarAgharia&theme=github-dark&date_format=M%20j%5B%2C%20Y%5D">
 <img align="right" height="350" width="400" src="https://cdn.dribbble.com/users/2238041/screenshots/4763918/working.gif" /> </a>
 </p>
 <img height="200px" width="400" src="https://github-readme-stats.vercel.app/api?username=ishikkkkaaaa&count_private=true&theme=radical&show_icons=true" />
