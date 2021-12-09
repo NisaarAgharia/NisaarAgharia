@@ -5,9 +5,10 @@
 <h5 align="center">
 A full-stack engineer with 5.5 years of experience building scalable web, mobile and backend systems, who fuels curiosity by learning every day and loves exploring cutting-edge Industry 4.0 technologies. 
 </h5>
+
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=NisaarAgharia&label=Profile%20views&color=brightgreen&style=flat" alt="NisaarAgharia" /> </p>
 <p align="center">
-<img alt= "stats card" height="200px" width="400" src="https://github-readme-streak-stats.herokuapp.com?user=NisaarAgharia&theme=github-dark&date_format=M%20j%5B%2C%20Y%5D">
+<img alt= "stats card" height="200px" width="400" src="https://github-readme-streak-stats.herokuapp.com?user=NisaarAgharia&theme=dark&date_format=M%20j%5B%2C%20Y%5D&ring=00FF10&currStreakLabel=FF2D2D&fire=FF2D2D&dates=01FF00">
 <img height="200px" width="400" src="https://github-readme-stats.vercel.app/api?username=NisaarAgharia&count_private=true&theme=blue-green&show_icons=true" />
  </p>
 <p align="center">
