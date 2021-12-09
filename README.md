@@ -17,7 +17,7 @@ A full-stack engineer with 5.5 years of experience building scalable web, mobile
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="https://www.youtube.com/aiotcloud" target="blank"><img align="center" src="https://img.icons8.com/cute-clipart/64/000000/twitter.png" alt="Nisaar Agharia" height="50" width="50" /></a> &nbsp;&nbsp;&nbsp;
+<a href="https://www.youtube.com/aiotcloud" target="blank"><img align="center" src="https://img.icons8.com/fluency/48/000000/youtube-play.png" alt="Nisaar Agharia" height="50" width="50" /></a> &nbsp;&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/nisaaragharia" target="blank"><img align="center" src="https://img.icons8.com/cute-clipart/64/000000/linkedin.png" alt="Nisaar Agharia" height="50" width="50" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.instagram.com/aiotcloud.space" target="blank"><img align="center" src="https://img.icons8.com/cute-clipart/64/000000/instagram-new.png" alt="aiotcloud" height="50" width="50" /></a>
 </p>
