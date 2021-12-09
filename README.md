@@ -11,11 +11,9 @@ A full-stack engineer with 5.5 years of experience building scalable web, mobile
 <img alt= "stats card" height="200px" width="400" src="https://github-readme-streak-stats.herokuapp.com?user=NisaarAgharia&theme=github-dark&date_format=M%20j%5B%2C%20Y%5D">
 <img align="right" height="350" width="400" src="https://cdn.dribbble.com/users/2238041/screenshots/4763918/working.gif" /> </a>
 </p>
-<img height="200px" width="400" src="https://github-readme-stats.vercel.app/api?username=ishikkkkaaaa&count_private=true&theme=radical&show_icons=true" />
+<img height="200px" width="400" src="https://github-readme-stats.vercel.app/api?username=NisaarAgharia&count_private=true&theme=radical&show_icons=true" />
 
-<p align="left"> <a href="https://twitter.com/ishikakesarwan4" target="blank"><img src="https://img.shields.io/twitter/follow/ishikakesarwan4?logo=twitter&style=for-the-badge" alt="ishikakesarwan4" /></a> </p>
-
-- 📫 How to reach me **ishikakesarwani2000@gmail.com**
+- 📫 How to reach me **nagharia786@gmail.com**
 <br><br>
 <hr>
 
