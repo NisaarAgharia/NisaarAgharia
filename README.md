@@ -1,9 +1,9 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
          alt="Waving hand animated gif"
          height="45"
-         width="45" />, I'm Nisaar Agharia</h1>
+         width="45" />, I'm Nisaar</h1>
 <h5 align="center">
-A full-stack engineer with 5.5 years of experience building scalable web, mobile and backend systems, who fuels curiosity by learning every day and loves exploring cutting-edge Industry 4.0 technologies. 
+A full-stack engineer with 5+ years of experience building scalable web, mobile and backend systems, who fuels curiosity by learning every day and loves tinkering with cutting-edge technologies. 
 </h5>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=NisaarAgharia&label=Profile%20views&color=brightgreen&style=flat" alt="NisaarAgharia" /> </p>
