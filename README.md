@@ -8,12 +8,13 @@ A full-stack engineer with 5+ years of experience building scalable web, mobile 
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=NisaarAgharia&label=Profile%20views&color=brightgreen&style=flat" alt="NisaarAgharia" /> </p>
 <p align="center">
+<img height="270" width="480" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" /> </a>
+</p>
+<p align="center">
 <img alt= "stats card" height="200px" width="400" src="https://github-readme-streak-stats.herokuapp.com?user=NisaarAgharia&theme=dark&date_format=M%20j%5B%2C%20Y%5D&ring=00FF10&currStreakLabel=FF2D2D&fire=FF2D2D&dates=01FF00">
 <img height="200px" width="400" src="https://github-readme-stats.vercel.app/api?username=NisaarAgharia&count_private=true&theme=chartreuse-dark&show_icons=true" />
  </p>
-<p align="center">
-<img height="270" width="480" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" /> </a>
-</p>
+
 <hr>
 
 <h3 align="center">Connect with me:</h3>
