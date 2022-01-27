@@ -2,9 +2,9 @@
          alt="Waving hand animated gif"
          height="45"
          width="45" />, I'm Nisaar</h1>
-<h5 align="center">
+<h4 align="center">
 A full-stack engineer with 5+ years of experience building scalable web, mobile and backend systems, who fuels curiosity by learning every day and loves tinkering with cutting-edge technologies. 
-</h5>
+</h4>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=NisaarAgharia&label=Profile%20views&color=brightgreen&style=flat" alt="NisaarAgharia" /> </p>
 <p align="center">
