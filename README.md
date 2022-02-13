@@ -3,7 +3,7 @@
          height="45"
          width="45" />, I'm Nisaar</h1>
 <h4 align="center">
-A full-stack engineer with 5+ years of experience building scalable web, mobile and backend systems, who fuels curiosity by learning every day and loves tinkering with cutting-edge technologies. 
+I am full-stack engineer with 5+ years of experience building secure & scalable web, mobile and backend systems, I fuel my curiosity by learning every day and love tinkering with cutting-edge technologies like AI, IoT, AR, 3D Printing, Blockchain.
 </h4>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=NisaarAgharia&label=Profile%20views&color=brightgreen&style=flat" alt="NisaarAgharia" /> </p>
