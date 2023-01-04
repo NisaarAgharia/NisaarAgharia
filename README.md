@@ -3,7 +3,7 @@
          height="45"
          width="45" />, I'm Nisaar</h1>
 <h4 align="center">
-An engineer with a Decade worth of experience building Software Technology & fueling curiosity by Tinkering with Cutting-Edge Technologies.
+An engineer with a Decade of experience building Software Technology & fueling curiosity by Tinkering with Cutting-Edge Technologies.
 </h4>
 <h4 align="center">Hands-On Experience in AI, IOT, Blockchain, Cloud, Security, Architecture, Frontend, Backend, 3D & Computer Graphics</h4>
 
