@@ -3,7 +3,7 @@
          height="45"
          width="45" />, I'm Nisaar</h1>
 <h4 align="center">
-A full-stack engineer with almost a decade years of experience building secure & scalable Web, Mobile and Backend Apps, I fuel my curiosity by learning every day and love tinkering with cutting-edge technologies like AI, IoT, AR, 3D , Blockchain & Cloud & Art.
+An engineer with almost a decade years of experience building Software / Tech / Projects , I fuel my curiosity by learning every day and love tinkering with cutting-edge technologies like AI, IoT, AR, 3D , Blockchain & Cloud & Art.
 </h4>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=NisaarAgharia&label=Profile%20views&color=brightgreen&style=flat" alt="NisaarAgharia" /> </p>
