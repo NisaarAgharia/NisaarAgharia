@@ -3,8 +3,10 @@
          height="45"
          width="45" />, I'm Nisaar</h1>
 <h4 align="center">
-An Engineer with a Decade of Experience building Software, Techology & Projects , fueling my curiosity by learning every day and love tinkering with cutting-edge technologies.
+An Engineer with A Decade of Experience building Software & Technology , currently fueling my curiosity by learning every day and love tinkering with cutting-edge technologies.
+Experience in Ai, Iot, 3D, Blockchain, Backend, Forntend, Cloud & Architecture.
 </h4>
+
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=NisaarAgharia&label=Profile%20views&color=brightgreen&style=flat" alt="NisaarAgharia" /> </p>
 <p align="center">
