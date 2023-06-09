@@ -5,7 +5,7 @@
 <h4 align="center">
 An engineer who loves Tinkering with Cutting-Edge Technologies .
 </h4>
-<h4 align="center">Hands-On Experience in Artificial Intelligence, Internet Of Things, Blockchain, Security, Cloud, System Architecture, Frontend, Backend, 3D Computer Graphics & Animation </h4>
+<h4 align="center">Hands-On Experience in Artificial Intelligence, Cloud, System Architecture,Full Stack Engg, 3D Computer Graphics & Animation </h4>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=NisaarAgharia&label=Profile%20views&color=brightgreen&style=flat" alt="NisaarAgharia" /> </p>
 <p align="center">
